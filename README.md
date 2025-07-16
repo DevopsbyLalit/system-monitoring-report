@@ -25,4 +25,6 @@ system-monitoring-report/
 ## 🙋‍♂️ Author:
 **Lalit** – DevOps & Linux Enthusiast 🐧
 
+
 .
+<img width="877" height="512" alt="Screenshot from 2025-07-16 14-53-14" src="https://github.com/user-attachments/assets/44fa6a85-fcbb-4790-9764-fc85ea40f0e8" />
